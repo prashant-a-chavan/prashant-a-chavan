@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Greetings! I’m Prashant, hailing from Karnataka, India. Currently pursuing a Master’s in Computer Applications in Mysuru. I excel in learning, problem-solving, and the ever-evolving world of technology. My passion lies in software development, and I’m dedicated to making a meaningful impact within the tech community. 🌟👩‍💻👨‍💻
 
+📧 Email: reposeful8887@gmail.com
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reposeful_prashant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c-prashant) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@reposeful6430) 
 
